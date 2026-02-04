@@ -51,7 +51,6 @@ Trabajo principalmente con Python y SQL para analizar datos, desarrollar modelos
 ---
 
 ## 🚧 En qué estoy trabajando actualmente
-- Mejora y refinado de proyectos para portfolio profesional
 - Proyecto aplicado de Visión por Computador (YOLO)
 - Profundización en explicabilidad y despliegue de modelos
 
