@@ -65,5 +65,5 @@ Trabajo principalmente con Python y SQL para analizar datos, desarrollar modelos
 ---
 
 ## 📫 Contacto
-- LinkedIn: [tu enlace]
+- LinkedIn: [donde también existo profesionalmente](https://www.linkedin.com/in/gabriel-almeida-ds)
 - GitHub: estás aquí 🙂
