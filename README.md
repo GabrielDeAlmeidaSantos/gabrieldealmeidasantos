@@ -1,6 +1,6 @@
 # Hola, soy Gabriel 👋
 
-Data Scientist orientado a la aplicación práctica del Machine Learning, el análisis de datos y la generación de soluciones basadas en negocio.
+Data Scientist orientado a la aplicación práctica del Machine Learning y el análisis de datos para resolver problemas reales de negocio.
 
 He desarrollado modelos de riesgo crediticio y dashboards de analítica e-commerce utilizando Python, SQL y técnicas de Machine Learning, con enfoque en explicabilidad y toma de decisiones.
 
@@ -16,24 +16,27 @@ He desarrollado modelos de riesgo crediticio y dashboards de analítica e-commer
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF0055?style=for-the-badge)
 
 ### Visualización
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Herramientas
+### Herramientas y despliegue
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🧠 Qué hago
-- Análisis de datos y exploración (EDA)
-- Desarrollo de modelos de Machine Learning (clasificación y regresión)
-- Ingeniería de características y evaluación de modelos
-- Visualización de datos y dashboards
-- APIs básicas y pipelines de datos
+- Análisis exploratorio de datos y generación de insights
+- Modelos de clasificación y regresión orientados a negocio
+- Ingeniería de características y evaluación de rendimiento
+- Construcción de dashboards y visualizaciones interactivas
+- Despliegue básico de modelos mediante APIs
 
 ---
 
@@ -64,13 +67,12 @@ He desarrollado modelos de riesgo crediticio y dashboards de analítica e-commer
 
 ---
 
-## 🎯 Qué tipo de oportunidades busco
-- Posiciones de Data Science o Data Analysis
-- Entornos donde el análisis tenga impacto real en negocio
-- Oportunidades en España o en remoto
+## 🧩 Un poco más sobre mí
+Me interesa construir soluciones útiles con datos, no solo modelos experimentales.  
+Prefiero proyectos prácticos, explicables y orientados a decisiones reales.
 
 ---
 
 ## 📫 Contacto
-- LinkedIn: [donde también existo profesionalmente](https://www.linkedin.com/in/gabriel-almeida-ds)
+- LinkedIn: [Gabriel Almeida](https://www.linkedin.com/in/gabriel-almeida-ds)
 - GitHub: estás aquí 🙂
