@@ -2,7 +2,29 @@
 
 Data Scientist orientado a la aplicación práctica del Machine Learning, el análisis de datos y la generación de soluciones basadas en negocio.
 
-Trabajo principalmente con Python y SQL para analizar datos, desarrollar modelos predictivos y transformar resultados técnicos en conclusiones claras y accionables. Mi enfoque es práctico: datos reales, problemas reales y modelos explicables.
+He desarrollado modelos de riesgo crediticio y dashboards de analítica e-commerce utilizando Python, SQL y técnicas de Machine Learning, con enfoque en explicabilidad y toma de decisiones.
+
+---
+
+## 🧰 Tecnologías
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Librerías de Data Science
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+### Visualización
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -15,36 +37,22 @@ Trabajo principalmente con Python y SQL para analizar datos, desarrollar modelos
 
 ---
 
-## 🛠️ Tecnologías
-**Lenguajes y herramientas**
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- Git y GitHub
-
-**Machine Learning**
-- Modelos de clasificación y regresión
-- Validación y métricas de rendimiento
-- Interpretabilidad de modelos (SHAP básico)
-
-**Visualización**
-- Matplotlib
-- Seaborn
-- Streamlit
-
----
-
 ## 📌 Proyectos destacados
-🔹 **Predicción de Riesgo Crediticio**
-- Modelo de Machine Learning aplicado a datos financieros reales
-- Ingeniería de variables, entrenamiento y explicabilidad
-- Enfoque orientado a la toma de decisiones
 
-🔹 **Dashboard de Analítica E-commerce**
-- Dashboards interactivos para ventas, finanzas y operaciones
-- Definición y seguimiento de KPIs clave
+🔹 Predicción de Riesgo Crediticio
+- Modelo de clasificación con CatBoost
+- AUC: 0.81 en validación
+- Explicabilidad con SHAP
+- Sistema de decisión con tres niveles de riesgo
 
-🔹 **[En desarrollo] Visión por Computador con YOLO**
-- Fine-tuning de modelos de detección aplicados a casos reales
+🔹 Dashboard de Analítica E-commerce
+- Análisis de más de 100k pedidos
+- KPIs: ingresos, ticket medio, cancelaciones y tiempos de entrega
+- Dashboard interactivo en Streamlit
+
+🔹 [En desarrollo] Visión por Computador con YOLO
+- Fine-tuning para detección de jugadores en vídeo
+- Pipeline de entrenamiento y evaluación
 
 (Los proyectos están fijados abajo 👇)
 
