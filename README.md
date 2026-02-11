@@ -54,17 +54,13 @@ He desarrollado modelos de riesgo crediticio y dashboards de analítica e-commer
 - KPIs: ingresos, ticket medio, cancelaciones y tiempos de entrega
 - Dashboard interactivo en Streamlit
 
-🔹 [En desarrollo] Visión por Computador con YOLO
-- Fine-tuning para detección de jugadores en vídeo
-- Pipeline de entrenamiento y evaluación
+🔹 Detección de jugadores, balón y árbitros con YOLOv8
+- Modelo de Computer Vision para detección en vídeo de fútbol
+- Fine-tuning de YOLOv8 sobre dataset especializado
+- Evaluación con métricas de detección (mAP50: 0.75)
+- Inferencia sobre vídeo real con demo visual
 
 (Los proyectos están fijados abajo 👇)
-
----
-
-## 🚧 En qué estoy trabajando actualmente
-- Proyecto aplicado de Visión por Computador (YOLO)
-- Profundización en explicabilidad y despliegue de modelos
 
 ---
 
