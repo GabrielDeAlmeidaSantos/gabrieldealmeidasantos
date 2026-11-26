@@ -1,14 +1,15 @@
 # Hola, soy Gabriel de Almeida Santos
 
-**Soporte informático junior · Hardware, Windows y redes · Estudiante de SMR**
+**Soporte informático · Hardware, Windows y redes · Estudiante de SMR**
 
 Estoy cursando 1.º de Sistemas Microinformáticos y Redes en Valladolid. Me gusta diagnosticar por qué algo falla, arreglarlo sin tocar más de lo necesario y comprobar que vuelve a funcionar. Con JellySolutions, trabajo en webs y automatizaciones para pequeños negocios. Me interesa detectar qué tarea les quita tiempo o qué problema les cuesta clientes, y convertirlo en un proyecto que se pueda probar y mantener.
 
 ## Lo que hago en la práctica
 
 - **Equipos y Windows:** montaje y ampliación de PCs, selección de componentes, instalación de Windows y controladores, y diagnóstico inicial de incidencias.
-- **Redes:** cableado Ethernet, conectores RJ45 y comprobación del enlace. En un caso reciente detecté un fallo en el pin 1 con un comprobador, rehice el conector y verifiqué un enlace de **1 Gbps**, frente a los **100 Mbps** del cable anterior.
+- **Redes:** preparo y compruebo cables Ethernet con conectores RJ45 y diagnostico problemas de conexión. Son tareas que he aplicado en mi día a día.
 - **Proyectos web:** uso Git y GitHub, defino qué debe hacer una web, pruebo sus flujos y reviso el resultado.
+- **APIs e integraciones:** uso APIs para conectar aplicaciones y automatizar tareas. Trabajo con autenticación OAuth e intercambio de datos entre servicios.
 
 ## IA aplicada y flujos de trabajo
 
@@ -26,6 +27,6 @@ Uso ChatGPT y Codex para investigar opciones, preparar prototipos y avanzar en e
 - **Sistemas Microinformáticos y Redes (FP de Grado Medio)** · CIFP SaFa Tech, Valladolid. 1.º, en curso.
 - **Data Science and Machine Learning** · Certificado de 4Geeks Academy, 320 horas. Finalizado en enero de 2026.
 
-Me interesan las oportunidades junior de **soporte informático, microinformática y preparación de equipos** en Valladolid.
+Me interesan las oportunidades de **soporte informático, microinformática y preparación de equipos** en Valladolid.
 
 [LinkedIn](https://www.linkedin.com/in/gabriel-almeida-ds) · [JellySolutions](https://jellysolutions.es/)
